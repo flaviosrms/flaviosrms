@@ -15,10 +15,8 @@ ciência da computação da UFABC.
 * Bacharelado em Ciência da Computação - Universidade Federal do ABC - Cursando
 
 ## Stats e Top Langs no  GitHub
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=flaviosrms&show_icons=true&theme=dark) 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=flaviosrms&layout=compact)](https://github.com/flaviosrms/github-readme-stats)
-
-<a href=""> <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=flaviosrms&theme=react&line_height=40&hide=css"/> </a>
+![Anurag's GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=flaviosrms&show_icons=true&theme=dark) 
+[![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=flaviosrms&layout=compact)](https://github.com/flaviosrms/github-readme-stats)
 
 ## Principais habilidades e Tecnologias 🚀
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
