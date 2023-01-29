@@ -7,7 +7,7 @@ programação e desde então tornou-se uma grande paixão junto com a matemátic
 
 ## Formação 🎓
 Sou técnico em mecatrônica, bacharel em ciência e tecnologia e atualmente sou aluno de graduação da UFABC, instituição no qual me inscrevo nas disciplinas dos cursos de engenharia de instrumentação, automação e robótica e 
-ciência da computação da UFABC.
+ciência da computação.
 
 * Técnico em Mecatrônica - SENAI Armando de Arruda Pereira - 2014
 * Bacharelado em Ciência & Tecnologia - Universidade Federal do ABC - 2021
