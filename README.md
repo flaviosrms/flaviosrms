@@ -10,7 +10,7 @@ Sou técnico em mecatrônica, bacharel em ciência e tecnologia e atualmente sou
 ciência da computação.
 
 * Técnico em Mecatrônica - SENAI Armando de Arruda Pereira - 2014
-* Bacharelado em Ciência & Tecnologia - Universidade Federal do ABC - 2021
+* Bacharelado em Ciência e Tecnologia - Universidade Federal do ABC - 2021
 * Engenharia de Instrumentação, Automação e Robótica - Universidade Federal do ABC - Cursando
 * Bacharelado em Ciência da Computação - Universidade Federal do ABC - Cursando
 
