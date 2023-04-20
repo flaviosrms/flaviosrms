@@ -1,12 +1,12 @@
 # Olá, eu sou o Flavio Ramos! Seja bem-vindo ao meu perfil 🖐️
 
 ## Sobre mim
-Eu me chamo Flavio Santos Ramos, sou programador em formação, tenho 26 anos, nasci e moro em São Paulo/SP. A tecnologia entrou na minha vida muito cedo, ainda criança nos anos 2000s, 
+Eu me chamo Flavio Santos Ramos, sou programador em formação, tenho 27 anos, nasci e moro em São Paulo/SP. A tecnologia entrou na minha vida muito cedo, ainda criança nos anos 2000s, 
 já manipulava o computador para fazer manutenção de desktops, edição de imagens e desenvolvimento de sites em Flash. Em 2013, eu dei os primeiros passos formais em 
 programação e desde então tornou-se uma grande paixão junto com a matemática e eletrônica.
 
 ## Formação 🎓
-Sou técnico em mecatrônica, bacharel em ciência e tecnologia e atualmente sou aluno de graduação da UFABC, instituição no qual me inscrevo nas disciplinas dos cursos de engenharia de instrumentação, automação e robótica e 
+Sou técnico em mecatrônica, bacharel em ciência e tecnologia e atualmente sou aluno de graduação da UFABC, instituição no qual sou aluno regular dos cursos de engenharia de instrumentação, automação e robótica e 
 ciência da computação.
 
 * Técnico em Mecatrônica - SENAI Armando de Arruda Pereira - 2014
