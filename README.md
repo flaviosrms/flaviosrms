@@ -1,7 +1,7 @@
 # Olá, eu sou o Flavio Ramos! Seja bem-vindo ao meu perfil 🖐️
 
 ## Sobre mim
-Meu nome é Flavio Santos Ramos, sou programador em formação, tenho 27 anos, nasci e moro em São Paulo/SP. A tecnologia entrou na minha vida muito cedo, ainda criança nos anos 2000s por influência de familiares, 
+Meu nome é Flavio, sou um entusiasta da tecnologia, tenho 27 anos, nasci e moro em São Paulo/SP. A tecnologia entrou na minha vida muito cedo, ainda criança nos anos 2000s por influência de familiares, 
 já manipulava o computador para fazer manutenção de desktops, edição de imagens e desenvolvimento de sites em Flash. Em 2013, eu dei os primeiros passos formais em 
 programação e desde então tornou-se uma grande paixão.
 
@@ -23,7 +23,7 @@ ciência da computação.
 ![C%2B%2B](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white )
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
-align=center Maior conhecimento ------> Menor conhecimento 
+<p align="center"+> Maior conhecimento -------> Menor conhecimento </p>
 
 ## Estudando atualmente 💻📚
 ![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white )
