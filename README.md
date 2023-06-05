@@ -2,8 +2,7 @@
 
 ## Sobre mim
 Meu nome é Flavio, sou um entusiasta da tecnologia, tenho 27 anos, nasci e moro em São Paulo/SP. A tecnologia entrou na minha vida muito cedo, ainda criança nos anos 2000s por influência de familiares, 
-já manipulava o computador para fazer manutenção de desktops, edição de imagens e desenvolvimento de sites em Flash. Em 2013, eu dei os primeiros passos formais em 
-programação e desde então tornou-se uma grande paixão.
+já fazia serviços como montagem, manutenção e reparo de desktops, edição de imagens e desenvolvimento de sites em  HTML e Flash. Em 2013, eu dei os primeiros passos formais em programação e desde então tornou-se uma grande paixão.
 
 ## Formação 🎓
 Sou técnico em mecatrônica, bacharel em ciência e tecnologia e atualmente sou aluno de graduação da UFABC, instituição no qual sou aluno regular dos cursos de engenharia de instrumentação, automação e robótica e 
