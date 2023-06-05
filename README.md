@@ -2,7 +2,7 @@
 
 ## Sobre mim
 Meu nome é Flavio, sou um entusiasta da tecnologia, tenho 27 anos, nasci e moro em São Paulo/SP. A tecnologia entrou na minha vida muito cedo, ainda criança nos anos 2000s por influência de familiares, 
-já fazia serviços como montagem, manutenção e reparo de desktops, edição de imagens e desenvolvimento de sites em  HTML e Flash. Em 2013, eu dei os primeiros passos formais em programação e desde então tornou-se uma grande paixão.
+já fazia serviços como montagem, manutenção e reparo de desktops, edição de imagens e desenvolvimento de páginas web com HTML e Flash. Em 2013, eu dei os primeiros passos formais em programação e desde então tornou-se uma grande paixão.
 
 ## Formação 🎓
 Sou técnico em mecatrônica, bacharel em ciência e tecnologia e atualmente sou aluno de graduação da UFABC, instituição no qual sou aluno regular dos cursos de engenharia de instrumentação, automação e robótica e 
@@ -23,7 +23,7 @@ ciência da computação.
 ![SQLITE](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white )
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
-<p align="center"> OBS:Maior conhecimento -------> Menor conhecimento </p>
+<p align="center"> OBS: Maior conhecimento -------> Menor conhecimento </p>
 
 ## Estudando atualmente 💻📚
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
