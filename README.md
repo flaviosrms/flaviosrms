@@ -1,7 +1,7 @@
 # Olá, eu sou o Flavio Ramos! Seja bem-vindo ao meu perfil 🖐️
 
 ## Sobre mim
-Meu nome é Flavio, sou um entusiasta da tecnologia, tenho 27 anos, nasci e resido em São Paulo/SP. Resumindamente a tecnologia entrou na minha vida muito cedo, ainda criança nos anos 2000s por influência de familiares na área, já fazia serviços como instalação, manutenção e reparo de desktops, SOs, periféricos, etc, como também desenvolvimento de páginas web com HTML e Flash e a utilização de ferramentas de design gráfico na criação/edição de imagens. Em 2013, eu dei os primeiros passos formais em programação e desde então tornou-se uma grande paixão e valioso conhecimento computacional.
+Meu nome é Flavio, sou um entusiasta da tecnologia, tenho 27 anos, nasci e resido em São Paulo/SP. Resumindamente a tecnologia entrou na minha vida muito cedo, ainda criança, nos anos 2000s por influência de familiares na área, já fazia serviços como instalação, manutenção e reparo de desktops, SOs, periféricos, etc, como também desenvolvimento de páginas web com HTML e Flash e a utilização de ferramentas de design gráfico na criação/edição de imagens. Em 2013, eu dei os primeiros passos formais em programação e desde então tornou-se uma grande paixão e valioso conhecimento computacional.
 
 ## Formação 🎓
 Sou técnico em mecatrônica, bacharel em ciência e tecnologia e atualmente sou aluno de graduação da UFABC, instituição no qual sou aluno regular dos cursos de engenharia de instrumentação, automação e robótica e ciência da computação.
