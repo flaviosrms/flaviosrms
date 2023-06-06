@@ -4,7 +4,7 @@
 Meu nome é Flavio, tenho 27 anos, sou um entusiasta da ciência e tecnologia, nasci e resido atualmente em São Paulo/SP. Resumindamente a tecnologia entrou na minha vida muito cedo, ainda criança, nos anos 2000s por influência de familiares na área, já fazia serviços como instalação, manutenção e reparo de desktops, SOs, periféricos, etc, como também desenvolvimento de páginas web com HTML e Flash, assim como a utilização de ferramentas de design gráfico na criação/edição de imagens. Em 2013, eu dei os primeiros passos formais em programação e desde então tornou-se uma grande paixão e valioso conhecimento computacional.
 
 ## Formação 🎓
-Sou técnico em mecatrônica, bacharel em ciência e tecnologia e atualmente sou aluno de graduação da UFABC, instituição no qual sou aluno regular dos cursos de engenharia de instrumentação, automação e robótica e ciência da computação.
+Eu sou técnico em mecatrônica, bacharel em ciência e tecnologia e atualmente sou aluno de graduação na UFABC, instituição de ensino superior no qual sou aluno regular dos cursos de engenharia de instrumentação, automação e robótica e ciência da computação.
 
 * Técnico em Mecatrônica - SENAI Armando de Arruda Pereira - 2014
 * Bacharelado em Ciência e Tecnologia - Universidade Federal do ABC - 2021
